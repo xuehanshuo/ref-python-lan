@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1447d77-08eb-4b13-b512-a247c39addab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YxzdepvTDCu9lILRuFITqObDST" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.hm_04_函数文档注释">
+    <configuration name="hm_02_导入包调用函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="04_函数" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_02_导入包调用函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_03_函数参数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="04_函数" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_03_函数参数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_04_函数文档注释" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="04_函数" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_04_函数文档注释.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hm_04_函数文档注释" />
+        <item itemvalue="Python.hm_03_函数参数" />
+        <item itemvalue="Python.hm_02_导入包调用函数" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1447d77-08eb-4b13-b512-a247c39addab" name="Default Changelist" comment="" />
+      <created>1583899121819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583899121819</updated>
+      <workItem from="1583899123043" duration="6030000" />
+      <workItem from="1583908657439" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1585" height="161" key="GridCell.Tab.0.bottom" timestamp="1583908647304">
+      <screen x="75" y="27" width="1639" height="857" />
+    </state>
+    <state width="1585" height="161" key="GridCell.Tab.0.bottom/75.27.1639.857@75.27.1639.857" timestamp="1583908647304" />
+    <state width="1585" height="161" key="GridCell.Tab.0.center" timestamp="1583908647303">
+      <screen x="75" y="27" width="1639" height="857" />
+    </state>
+    <state width="1585" height="161" key="GridCell.Tab.0.center/75.27.1639.857@75.27.1639.857" timestamp="1583908647303" />
+    <state width="1585" height="161" key="GridCell.Tab.0.left" timestamp="1583908647303">
+      <screen x="75" y="27" width="1639" height="857" />
+    </state>
+    <state width="1585" height="161" key="GridCell.Tab.0.left/75.27.1639.857@75.27.1639.857" timestamp="1583908647303" />
+    <state width="1585" height="161" key="GridCell.Tab.0.right" timestamp="1583908647304">
+      <screen x="75" y="27" width="1639" height="857" />
+    </state>
+    <state width="1585" height="161" key="GridCell.Tab.0.right/75.27.1639.857@75.27.1639.857" timestamp="1583908647304" />
+    <state width="1585" height="261" key="GridCell.Tab.1.bottom" timestamp="1583908647297">
+      <screen x="75" y="27" width="1639" height="857" />
+    </state>
+    <state width="1585" height="261" key="GridCell.Tab.1.bottom/75.27.1639.857@75.27.1639.857" timestamp="1583908647297" />
+    <state width="1585" height="261" key="GridCell.Tab.1.center" timestamp="1583908647296">
+      <screen x="75" y="27" width="1639" height="857" />
+    </state>
+    <state width="1585" height="261" key="GridCell.Tab.1.center/75.27.1639.857@75.27.1639.857" timestamp="1583908647296" />
+    <state width="1585" height="261" key="GridCell.Tab.1.left" timestamp="1583908647295">
+      <screen x="75" y="27" width="1639" height="857" />
+    </state>
+    <state width="1585" height="261" key="GridCell.Tab.1.left/75.27.1639.857@75.27.1639.857" timestamp="1583908647295" />
+    <state width="1585" height="261" key="GridCell.Tab.1.right" timestamp="1583908647296">
+      <screen x="75" y="27" width="1639" height="857" />
+    </state>
+    <state width="1585" height="261" key="GridCell.Tab.1.right/75.27.1639.857@75.27.1639.857" timestamp="1583908647296" />
+    <state x="549" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1583908660041">
+      <screen x="75" y="27" width="1639" height="857" />
+    </state>
+    <state x="549" y="282" key="com.intellij.ide.util.TipDialog/75.27.1639.857@75.27.1639.857" timestamp="1583908660041" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/04_$hm_03_.coverage" NAME="hm_03_函数参数 Coverage Results" MODIFIED="1583907641266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/04_$hm_02_.coverage" NAME="hm_02_导入包调用函数 Coverage Results" MODIFIED="1583905644481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/04_$hm_04_.coverage" NAME="hm_04_函数文档注释 Coverage Results" MODIFIED="1583907681467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
